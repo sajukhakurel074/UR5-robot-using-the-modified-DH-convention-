@@ -63,11 +63,11 @@ Aspect comparison:
 
 ### Cartesian trajectory and robot configurations
 
-![Robot trajectory](trajectory_configurations.png)
+<img width="594" height="453" alt="image" src="https://github.com/user-attachments/assets/f90bd4d3-0b3c-47c7-b4c6-d3014173bedb" />
 
 ### UR5 motion using Robotics System Toolbox
 
-![UR5 motion](toolbox_motion.png)
+<img width="579" height="469" alt="image" src="https://github.com/user-attachments/assets/598ed7ad-6470-4781-8252-586aa9e3fe4c" />
 
 ---
 
@@ -93,7 +93,3 @@ The program will:
 
 - MATLAB
 - Robotics System Toolbox
-
-<img width="594" height="453" alt="image" src="https://github.com/user-attachments/assets/f90bd4d3-0b3c-47c7-b4c6-d3014173bedb" />
-
-<img width="579" height="469" alt="image" src="https://github.com/user-attachments/assets/598ed7ad-6470-4781-8252-586aa9e3fe4c" />
